@@ -1,5 +1,5 @@
 # ApkSign library: works on Android Device
-This library can sign Android application on an Android device.
+This library can sign an Android application on an Android device.
 
 ## Usage
 If you want to test this library, run the follow command.
@@ -19,5 +19,5 @@ ApkSignatureSample.apk is the sample application which signs non-sign apk on the
 $ adb install ApkSignatureSample.apk
 ```
 
-If you start the activity and push the button, the application makes signed apk in /data/data/com.example.apksignaturesample/files/
+If you start the activity and push the button, the application makes signed apk in /data/data/com.example.apksignaturesample/files/.
 
